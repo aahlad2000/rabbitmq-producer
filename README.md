@@ -6,4 +6,4 @@
  To publish a message, use "/publish" endpoint using any REST client.
 
  These messages are listened by another service :
- (https://github.com/aahlad2000/rabbitmq-cosnumer/tree/master)
+ (https://github.com/aahlad2000/rabbitmq-cosnumer)
