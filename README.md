@@ -6,4 +6,4 @@
  To publish a message, use "/publish" endpoint using any REST client.
 
  These messages are listened by another service :
- ([https://github.com/aahlad2000/rabbitmq-cosnumer](https://github.com/aahlad2000/rabbitmq-consumer)https://github.com/aahlad2000/rabbitmq-consumer)
+ ([RabbitMQ-Consumer](https://github.com/aahlad2000/rabbitmq-consumer))
